@@ -1,5 +1,6 @@
 #postsContainer {
-    max-width: 100%;
+    width: 100%;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 1em;
     box-sizing: border-box;
