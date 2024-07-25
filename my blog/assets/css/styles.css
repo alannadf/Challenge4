@@ -27,3 +27,8 @@ body.dark-mode {
 body.dark-mode header, body.dark-mode footer {
     background-color: #1c1c1c;
 }
+
+body.dark-mode input, body.dark-mode textarea, body.dark-mode button {
+    background-color: #444;
+    color: #f5f5dc;
+}
