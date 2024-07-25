@@ -13,3 +13,12 @@ input, textarea {
     padding: 0.5em;
     font-size: 1em;
 }
+
+button {
+    padding: 0.5em;
+    font-size: 1em;
+    background-color: bisque;
+    color:black;
+    border: none;
+    cursor: pointer;
+}
