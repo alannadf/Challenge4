@@ -8,3 +8,8 @@ form {
 label, input, textarea, button {
     margin-bottom: 1em;
 }
+
+input, textarea {
+    padding: 0.5em;
+    font-size: 1em;
+}
