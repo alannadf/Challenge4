@@ -14,6 +14,6 @@ blogPosts.forEach(post => {
         <p>${post.content}</p>
         <p><em>Posted by ${post.username}</em></p>
     `;
-        
+    postsContainer.appendChild(postElement);
 })
 
