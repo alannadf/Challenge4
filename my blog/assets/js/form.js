@@ -11,7 +11,7 @@ document.getElementById('blogForm').addEventListener('submit',function(event){
 
     if (!username || !title || !content) {
         alert('Please complete all fields.');
-        return;
+       
     }
 
     const blogPost = {username, title, content};
