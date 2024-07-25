@@ -3,8 +3,12 @@
     margin: 0 auto;
 }
 
-.blog-posts {
+.blog-post {
     border: 1px solid #ccc;
     padding: 1em;
     margin-bottom: 1em;
+}
+
+.blog-post h2 {
+    margin-top: 0;
 }
