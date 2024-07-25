@@ -18,8 +18,8 @@ This project is about creating a personal blog website with two pages: a landing
 6- Deployment: Once you are satisfied with your website, deploy it to a live server or hosting service so that others can view it. Update the repository with any final changes.
 
 ## Screenshots 
-![Result](./assets/images/Challenge4.png)
-![Result](./assets/images/Challenge4.1.png)
+![Result](./my%20blog/assets/images/Challenge4.png)
+![Result](./my%20blog/assets/images/Challenge4.1.png)
 
 
 ## Contributing
