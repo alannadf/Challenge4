@@ -4,3 +4,7 @@ form {
     max-width: 600px;
     margin: 0 auto;
 }
+
+label, input, textarea, button {
+    margin-bottom: 1em;
+}
