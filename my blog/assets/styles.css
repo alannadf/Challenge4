@@ -6,3 +6,10 @@ body {
     flex-direction: column;
     min-height: 800px;
 }
+
+header, footer {
+    background-color: bisque;
+    color:black;
+    padding: 1em;
+    text-align: center;
+}
