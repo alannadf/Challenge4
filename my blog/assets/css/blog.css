@@ -9,13 +9,13 @@
 .blog-post {
     width: 100%;
     border: 1px solid #ccc;
-    padding: 2em;
-    margin-bottom: 2em;
+    padding: 1em;
+    margin-bottom: 1em;
     box-sizing: border-box;
 
 }
 
 .blog-post h2 {
     margin-top: 0;
-    font-size: 1.5em;
+    font-size: 1em;
 }
