@@ -20,5 +20,8 @@ document.getElementById('blogForm').addEventListener('submit',function(event){
     blogPosts.push(blogPost);
     localStorage.setItem('blogPosts', JSON.stringify(blogPosts));
 
+    console.log('Form submitted successfully.');
+    console.log('Redirecting to blog.html');
+
     window.location.href = 'blog.html';
 })
